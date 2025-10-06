@@ -4,6 +4,7 @@
 # Sergio Arturo Flores Segoviano
 # Tema: Modelos categóricos multinomiales
 # Ejemplo adaptado: Países (World Bank 50)
+# https://github.com/SergioSegoviano/Modelos_Multinominales.git
 # ==========================================================
 
 # (1) Instalar y cargar librerías
